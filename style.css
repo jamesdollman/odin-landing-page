@@ -13,9 +13,7 @@
     height:150px;
 }
 
-.main-content{
-    border:2px solid black;
-    height:200px;
+.main-content-boxes{
     display:flex;
     flex-direction: row;
     justify-content:space-around;
@@ -28,6 +26,4 @@
     height:100px;
     border:2px solid blue;
     border-radius:10px;
-
-
 }
