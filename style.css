@@ -1,0 +1,33 @@
+.header-container {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    border:2px solid black;
+}
+
+.placeholder-image {
+    color:white;
+    background-color:grey;
+    width:300px;
+    height:150px;
+}
+
+.main-content{
+    border:2px solid black;
+    height:200px;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-content:center;
+}
+
+.box-one, .box-two, .box-three,
+.box-four {
+    width:100px;
+    height:100px;
+    border:2px solid blue;
+    border-radius:10px;
+
+
+}
