@@ -96,6 +96,14 @@ body {
 .sign-up{
     border-radius:5px;
     width:100px;
+    background-color:#3882F6;
+    border:#3882F6;
+}
+.sign-up:hover {
+    background-color: white;
+    border:#3882F6;
+    color:#3882F6;
+    
 }
 
 /* NEXT DIV SECTION */
