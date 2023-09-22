@@ -17,6 +17,7 @@ body {
     background-color:#3882F6;
     color:white;
 }
+
 /* FIRST DIV SECTION */
 /* FIRST DIV SECTION */
 /* FIRST DIV SECTION */
@@ -28,6 +29,12 @@ body {
 
 .first-div *{
     margin:0;
+    
+}
+
+.header-link:hover{
+    text-decoration:underline;
+    cursor: pointer;
 }
 
 .header-container {
@@ -103,7 +110,7 @@ body {
     background-color: white;
     border:#3882F6;
     color:#3882F6;
-    
+    cursor:pointer;
 }
 
 /* NEXT DIV SECTION */
